@@ -71,11 +71,8 @@ fun findMatchingPair(products: List<Product>, target: Int): Pair<Product, Produc
 ---
 
 ## 📱 Screenshots
+<img width="361" height="710" alt="Screenshot 2025-07-30 at 11 24 43 PM" src="https://github.com/user-attachments/assets/b25e1a00-99d5-426e-a3a4-e88e22c76abe" />
 
-
-![home](https://via.placeholder.com/400x800.png?text=Pantry+Home)
-![scanner](https://via.placeholder.com/400x800.png?text=Scan+Barcode)
-![matcher](https://via.placeholder.com/400x800.png?text=Price+Match+Result)
 
 ---
 
